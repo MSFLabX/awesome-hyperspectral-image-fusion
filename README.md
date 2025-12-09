@@ -2,7 +2,8 @@
 A list of hyperspectral image unmixing resources collected by Fei Peng and Shuo Guo.
 
 ## Contents
-[Databases](#data)
+[[Databases](#data)]
+
 [[Paper](#paper)]
 
 <a name="data" />
