@@ -33,6 +33,8 @@ A list of hyperspectral image fusion resources collected by Fei Peng and Shuo Gu
 
 -PSRT: Pyramid Shuffle-and-Reshuffle Transformer for Multispectral and Hyperspectral Image Fusion. TGRS 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10044141)] [[Code](https://github.com/shangqideng/PSRT)]
 
+-Progressive Spatial Information-Guided Deep Aggregation Convolutional Network for Hyperspectral Spectral Super-Resolution. TNNLS 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10298249)] [[Code](https://github.com/dusongcheng/SIGnet-master)]
+
 -Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging.  2024 [[Paper](https://link.springer.com/article/10.1007/s11263-024-02203-7)] [[Code](https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging)]
 
 -MIMO-SST: Multi-Input Multi-Output Spatial-Spectral Transformer for Hyperspectral and Multispectral Image Fusion. TGRS 2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10419133)] [[Code](https://github.com/Freelancefangjian/MIMO-SST)]
