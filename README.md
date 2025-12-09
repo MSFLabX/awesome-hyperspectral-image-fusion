@@ -2,9 +2,9 @@
 A list of hyperspectral image fusion resources collected by Fei Peng and Shuo Guo. If you find any important resources are not included, please feel free to contact us.
 
 ## Contents
-[[Databases](#data)]
+~[Databases](#data)
 
-[[Paper](#paper)]
+~[Paper](#paper)
 
 <a name="data" />
 
