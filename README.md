@@ -16,6 +16,12 @@ A list of hyperspectral image unmixing resources collected by Fei Peng and Shuo 
 
 * [Pavia](https://github.com/liangjiandeng/HyperPanCollection)
 
+* [Chikusei](https://naotoyokoya.com/Download.html)
+
+* [Bostwana](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Bostwana)
+
+* [Los Angeles](https://github.com/yxzheng24/IEEE_TGRS_DHP-DARN/tree/main/data_process/LosAngelesData)
+
 
 <a name="paper" />
 
