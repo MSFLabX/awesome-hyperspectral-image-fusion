@@ -1,5 +1,5 @@
 # awesome-hyperspectral-image-fusion
-# 高光谱图像融合
+A list of hyperspectral image unmixing resources collected by Fei Peng and Shou Guo.
 
 ## Contents
 [[Paper](#paper)]
