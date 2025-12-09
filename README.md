@@ -10,6 +10,11 @@ A list of hyperspectral image unmixing resources collected by Fei Peng and Shuo 
 
 ## Databases
 
+* [CAVE](https://www.cs.columbia.edu/CAVE/databases/multispectral/)
+
+* [Harvard](http://vision.seas.harvard.edu/hyperspec/)
+
+* [Pavia](https://github.com/liangjiandeng/HyperPanCollection)
 
 
 <a name="paper" />
