@@ -43,6 +43,8 @@ A list of hyperspectral image fusion resources collected by Fei Peng and Shuo Gu
 
 -LGCT: Local-Global Collaborative Transformer for Fusion of Hyperspectral and Multispectral Images. TGRS 2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10742406)] [[Code](https://github.com/Hewq77/LGCT)]
 
+-Reciprocal transformer for hyperspectral and multispectral image fusion. Information Fusion 2024 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004645)] [[Code](https://github.com/qingma2016/DCTransformer)]
+
 -Adaptive Expert Learning for Hyperspectral and Multispectral Image Fusion. TGRS 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11202498)] [[Code](https://github.com/Hewq77/AELF)]
 
 -Asymptotic Spectral Mapping for Hyperspectral Image Fusion. TCSVT 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/10770270)] [[Code](https://github.com/1318133/ASMNet)]
