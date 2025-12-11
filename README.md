@@ -59,6 +59,9 @@ A list of hyperspectral image fusion resources collected by Fei Peng and Shuo Gu
 
 -Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion. JSTSP 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11122364)] [[Code](https://github.com/MSFLabX/SINet)]
 
+-A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging. CVPR 2025 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.pdf)] [[Code](https://github.com/YuanyeLiu/SRLF-Net)]
+
+
 
 
 
