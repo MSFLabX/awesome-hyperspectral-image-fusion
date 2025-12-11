@@ -63,7 +63,7 @@ A list of hyperspectral image fusion resources collected by Fei Peng and Shuo Gu
 
 -A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging. CVPR 2025 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.pdf)] [[Code](https://github.com/YuanyeLiu/SRLF-Net)]
 
-
+-Mamba Collaborative Implicit Neural Representation for Hyperspectral and Multispectral Remote Sensing Image Fusion. TGRS 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/10869490)] [[Code](https://github.com/chunyuzhu/MCIFNet)]
 
 
 
